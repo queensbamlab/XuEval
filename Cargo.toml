@@ -1,0 +1,11 @@
+[package]
+name = "xu_eval"
+version = "0.1.0"
+authors = ["MorganGallant <morgan@morgangallant.com>"]
+
+[dependencies]
+csv = "*"
+regex = "*"
+lazy_static = "*"
+elapsed = "*"
+rayon = "*"
